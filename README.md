@@ -6,9 +6,9 @@ This project provides an in-depth analysis of the ICC Men's T20 World Cup 2022, 
 
 ## 🔍 Objectives
 
-- **Data Exploration:** Analyze match outcomes, player statistics, and team performances.
-- **Visualization:** Create interactive dashboards to present insights clearly.
-- **Performance Metrics:** Evaluate batting and bowling performances across teams.
+- **Data Exploration:** Analyse match outcomes, player statistics, and team performances
+- **Visualization:** Create interactive dashboards to present insights clearly
+- **Performance Metrics:** Evaluate batting and bowling performances across teams
 
 ## 🛠 Tools & Technologies
 
